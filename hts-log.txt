@@ -1,0 +1,11 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Fri, 20 May 2022 16:36:27 at https://toridofrank.blogspot.com
+(httrack -w https://toridofrank.blogspot.com )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 32 seconds : 16 links scanned, 15 files written (451903 bytes overall) [124318 bytes received at 1351 bytes/sec], 452030 bytes transferred using HTTP compression in 16 files, ratio 24%
+(No errors, 0 warnings, 0 messages)
